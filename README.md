@@ -33,10 +33,10 @@ mediapipe [pip install mediapipe](https://pypi.org/project/mediapipe/)
 
 ## Implementation and testing
 
-For the Mouse Cursor Moving around the Computer Window
+For the Mouse Cursor Moving around the Computer Window <br/>
 ``` if fingers[1] == 1 ``` i.e. the tip of index finger is up and and the remaining fingers are down it is in moving mode.
 
-For the Mouse Cursor to perform button click
+For the Mouse Cursor to perform button click <br/>
 ``` if fingers[1] == 1 and fingers[2] == 1: ``` i.e. both the tip of index finger and middle finger are up and the remaining are down.
  
 
