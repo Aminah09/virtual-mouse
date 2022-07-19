@@ -20,13 +20,13 @@ import math
 
 ## Installation of python libraries
 
-[pip install opencv-python](https://pypi.org/project/autopy/)
+open-cv [pip install opencv-python](https://pypi.org/project/opencv-python/)
 
-[numpy](pip install numpy)
+numpy [pip install numpy](https://pypi.org/project/numpy/)
 
-[autopy](pip install autopy)
+autopy [pip install autopy](https://pypi.org/project/autopy/)
 
-[mediapipe](pip install mediapipe)
+mediapipe [pip install mediapipe](https://pypi.org/project/mediapipe/)
 
 >my python version was 3.8 
 
