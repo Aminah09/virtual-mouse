@@ -18,8 +18,9 @@ import mediapipe as mp
 
 import math
 
-## Installation of python libraries 
-[opencv]([pip install opencv-pytho]([url](https://pypi.org/project/autopy/))n)
+## Installation of python libraries
+
+[pip install opencv-pytho]([url](https://pypi.org/project/autopy/))n
 
 [numpy](pip install numpy)
 
