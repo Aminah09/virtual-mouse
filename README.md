@@ -18,13 +18,15 @@ import mediapipe as mp
 
 import math
 
->Installation of python libraries 
->[opencv](pip install opencv-python)
->[numpy](pip install numpy)
->[autopy](pip install autopy)
->[mediapipe](pip install mediapipe)
->, numpy, autopy , mediapipe)
->
+## Installation of python libraries 
+[opencv](pip install opencv-python)
+
+[numpy](pip install numpy)
+
+[autopy](pip install autopy)
+
+[mediapipe](pip install mediapipe)
+
 >my python version was 3.8 
 
 
