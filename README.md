@@ -20,7 +20,7 @@ import math
 
 ## Installation of python libraries
 
-[pip install opencv-pytho]([url](https://pypi.org/project/autopy/))n
+[pip install opencv-python](https://pypi.org/project/autopy/)
 
 [numpy](pip install numpy)
 
