@@ -6,6 +6,8 @@
 It is an AI virtual mouse system that makes use of the hand gestures and hand tip detection for performing mouse functions in the computer using computer vision.
 Hand gesture and hand tip detection by using computer vision is used as a HCI with the computer. Python programming language is used for developing the AI virtual mouse system, and also OpenCV which is the library for computer vision is used in the AI virtual mouse system.
 
+``` python version used - 3.8.5 ```
+
 ## Libraries
 
 import cv2 as cv
@@ -27,8 +29,6 @@ numpy [pip install numpy](https://pypi.org/project/numpy/)
 autopy [pip install autopy](https://pypi.org/project/autopy/)
 
 mediapipe [pip install mediapipe](https://pypi.org/project/mediapipe/)
-
->my python version was 3.8 
 
 
 # Test Video
