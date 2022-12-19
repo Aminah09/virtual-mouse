@@ -33,7 +33,9 @@ mediapipe [pip install mediapipe](https://pypi.org/project/mediapipe/)
 
 ## Implementation and testing
 
+
 ![alt text](https://mediapipe.dev/images/mobile/hand_landmarks.png)
+
 
 For the Mouse Cursor Moving around the Computer Window <br/>
 ``` if fingers[1] == 1 ``` i.e. the tip of index finger is up and and the remaining fingers are down it is in moving mode.
