@@ -3,32 +3,41 @@
 
 ## Description
 
-It is an AI virtual mouse system that makes use of the hand gestures and hand tip detection for performing mouse functions in the computer using computer vision.
-Hand gesture and hand tip detection by using computer vision is used as a HCI with the computer. Python programming language is used for developing the AI virtual mouse system, and also OpenCV which is the library for computer vision is used in the AI virtual mouse system.
+The AI Virtual Mouse is a computer vision-based system that enables users to control the mouse cursor and perform mouse functions using hand gestures. It utilizes Python programming language and OpenCV library for hand gesture recognition and tracking.
 
 ``` python version used - 3.8.5 ```
 
-## Libraries
+## Requirements
 
-import math
+To run this project, you need the following:
 
-import cv2 as cv
+- Python 3 (preferably Python 3.6 or later)
+- Required Python libraries: OpenCV, NumPy, Autopy, Mediapipe
 
-import numpy as np
+## Installation
 
-import autopy
+Use the following commands to install the required Python libraries:
 
-import mediapipe as mp
+- OpenCV: `pip install opencv-python`(https://pypi.org/project/opencv-python/)
+- NumPy: `pip install numpy`(https://pypi.org/project/numpy/)
+- Autopy: `pip install autopy`(https://pypi.org/project/autopy/)
+- Mediapipe: `pip install mediapipe`(https://pypi.org/project/mediapipe/)
 
-## Installation of python libraries
+## Usage
 
-open-cv [pip install opencv-python](https://pypi.org/project/opencv-python/)
+1. Clone this repository to your local machine or download the project files.
 
-numpy [pip install numpy](https://pypi.org/project/numpy/)
+2. Install the required Python libraries if not already installed using the provided installation commands.
 
-autopy [pip install autopy](https://pypi.org/project/autopy/)
+3. Launch a Python development environment.
 
-mediapipe [pip install mediapipe](https://pypi.org/project/mediapipe/)
+4. Open the `vmdemo.py` script.
+
+5. Run the script to start the AI Virtual Mouse.
+
+6. Follow the on-screen instructions to perform various mouse actions using hand gestures.
+
+7. Press 'Q' to quit the AI Virtual Mouse.
 
 
 ## Implementation and testing
@@ -42,5 +51,20 @@ For the Mouse Cursor Moving around the Computer Window <br/>
 
 For the Mouse Cursor to perform button click <br/>
 ``` if fingers[1] == 1 and fingers[2] == 1: ``` i.e. both the tip of index finger and middle finger are up and the remaining are down.
+
+## Project Structure
+
+The project structure is as follows:
+
+- `vmdemo.py`: The Python script that contains the implementation of the AI Virtual Mouse.
+
+- `README.md`: This readme file providing an overview of the project and instructions for running it.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to explore and modify the code according to your needs. Enjoy using the AI Virtual Mouse!
+
  
 
