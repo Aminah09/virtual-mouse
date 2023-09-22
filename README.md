@@ -3,7 +3,7 @@
 
 ## Description
 
-The AI Virtual Mouse is a computer vision-based system that enables users to control the mouse cursor and perform mouse functions using hand gestures. It utilizes Python programming language and OpenCV library for hand gesture recognition and tr
+The AI Virtual Mouse is a computer vision-based system that enables users to control the mouse cursor and perform mouse functions using hand gestures. It utilizes Python programming language and OpenCV library for hand gesture recognition and tra
 
 ``` python version used - 3.8.5 ```
 
