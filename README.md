@@ -12,7 +12,7 @@ The AI Virtual Mouse is a computer vision-based system that enables users to con
 To run this project, you need the following:
 
 - Python 3 (preferably Python 3.6 or later)
-- Required Python libraries: OpenCV, NumPy, Autopy, Mediapipe
+- Required Python libraries: OpenCV, NumPy, PyAutoGUI, Mediapipe
 
 ## Installation
 
@@ -20,7 +20,7 @@ Use the following commands to install the required Python libraries:
 
 - OpenCV: `pip install opencv-python`(https://pypi.org/project/opencv-python/)
 - NumPy: `pip install numpy`(https://pypi.org/project/numpy/)
-- Autopy: `pip install autopy`(https://pypi.org/project/autopy/)
+- PyAutoGUI: `pip install PyAutoGUI` (https://pypi.org/project/PyAutoGUI/)
 - Mediapipe: `pip install mediapipe`(https://pypi.org/project/mediapipe/)
 
 ## Usage
